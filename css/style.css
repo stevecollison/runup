@@ -1,0 +1,164 @@
+body {
+  background-color: #white;
+  background-image: url(https://s3.ca-central-1.amazonaws.com/stevencollison.ca/Background.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 20px;
+  height: 500px;
+  font-family: .SFNSDisplay-Regular;
+  font-weight: 500;
+
+
+}
+.jumbotron {
+  backface-visibility: hidden;
+  background: none;
+  padding-left: 0em;
+  padding-right: 0em;
+  border-radius: none;
+}
+
+.display-3 {
+color: white;
+text-align: left;
+font-size: 3em;
+}
+
+.lead {
+  color: white;
+  text-align: left;
+}
+
+
+
+.nav-link {
+  color: white;
+}
+#join {
+
+  background-color: #999;
+  background-image: url(https://s3.ca-central-1.amazonaws.com/stevencollison.ca/joinconnect.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.btn btn-primary {
+background-color: #2254A7;
+
+}
+
+.btn-info {
+background-color: white;
+color:#2254A7;
+border-color: white;
+
+}
+
+.btn-info:hover {
+background-color: #2254A7;
+color:white;
+border-color: #2254A7;
+
+}
+
+.btn-info:active, .btn-info.active {
+background-color: #white;
+color:#2254A7;
+border-color: #2254A7;
+
+
+}
+
+#explore {
+
+  background-color: #999;
+  background-image: url(img/explore.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#route {
+
+
+    background-image: url(img/route.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+  }
+
+  #awards {
+    min-height: 400px;
+    background: linear-gradient(180deg, #2254A7 0%, #82CEFB 55.07%);
+    }
+
+#footer {
+background-color: #474747;
+
+}
+
+h4 {
+  font-weight:300;
+}
+
+h2 {
+  font-weight:400;
+  font-size: 3em;
+}
+
+h1{
+  font-size: 3em;
+}
+
+
+
+p {
+  font-weight: 300;
+
+
+}
+
+p.lead {
+
+font-weight:300;
+
+}
+.imgwrapper {
+   width: 50%;
+}
+
+img.img-fluid {
+width: 100%;
+
+}
+
+.carousel-control-next-icon {
+    color: black;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.phones,.cards,.words {
+  opacity: 0;
+
+}
